@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+requests>=2.31.0
+yara-python>=4.5.0
+pycryptodome>=3.18.0
+reportlab>=4.0.0

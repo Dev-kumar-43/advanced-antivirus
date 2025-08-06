@@ -1,0 +1,12 @@
+{
+    "vt_api_key": "9Sgc0zt7PbAswdnoSjhjHvxt8OLRTe8aaMp0g0UVLWYeNgttaBGH+mPB3KIACEnLmoJl2xBeQleiauBUCdYHLsKocA28E/mzwPLDZPQqmETewFiyy66nL1i+NMFWmKN0",
+    "heuristics_enabled": true,
+    "auto_quarantine": false,
+    "scan_archives": true,
+    "max_file_size": 104857600,
+    "excluded_extensions": [
+        ".txt",
+        ".md",
+        ".log"
+    ]
+}
