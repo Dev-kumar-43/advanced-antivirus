@@ -58,6 +58,25 @@ Useful for security operations & analysis
 
 🖥️ Simple GUI (Tkinter)
 
+📁 Project Structure (Example)
+/core
+  ├── static_analysis.py
+  ├── heuristic_engine.py
+  ├── yara_engine.py
+  ├── vt_lookup.py
+
+/gui
+  ├── main_ui.py
+
+/database
+  ├── scan_history.sqlite
+
+/quarantine
+  ├── (isolated malicious files)
+
+README.md
+requirements.txt
+
 Clean and easy-to-use interface
 
 Scan files, view results, manage quarantine
